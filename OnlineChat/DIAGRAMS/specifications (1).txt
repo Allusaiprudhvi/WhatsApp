@@ -1,0 +1,44 @@
+Functional Requirements
+
+User Features:
+
+1) User Registration
+At the time of registration, user can't skip the registration page without filling mandatory details.
+
+2) User Login
+  User is successfully logged-in only if the entered details are correct.
+
+3)Send Message
+  User can be able to send message to any registered user.
+
+4)Message Status
+   sender can know the whether the receiver has seen the message.
+      
+5)Receive Message
+ User can receive from any other registered user. 
+
+6)Users can leave group.
+
+7) user can change password or number.
+
+GroupAdmin(user) Features:
+
+1) admin can create group.
+
+2) admin can add friends.
+
+3)admin can remove friends.
+
+4)admin can delete group.
+
+Non-Functonal Requirements
+
+1)Performance
+Application must be lightweight and must send messages instantly.
+
+2)Secured Login
+Password is encrypted with SHA-512.
+
+Front-End using JSP
+
+Back-End using JAVA SERVLETS,JDBC and SQL.
